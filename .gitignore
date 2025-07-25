@@ -1,10 +1,10 @@
-001/001/.cache/
-001/001/.codelite
-001/001/build-Debug
+*.cache/
+*.codelite
+*/build-Debug
 *.workspace
-001/001/compile_commands.json
+*compile_commands.json
 *.clang-format
 *.clangd
 *.project
 *.mk
-001/001/Makefile
+*/Makefile
